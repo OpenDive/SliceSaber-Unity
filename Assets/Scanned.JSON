@@ -1,0 +1,65 @@
+{
+  "GoodSongs": [
+    {
+      "ID": 0,
+      "initialData": {
+        "Artist": "Avicii",
+        "SongName": "Hey Brother",
+        "Charter": "(Beatmap by Chandoggie)",
+        "Album": "Album Unknown",
+        "offset": 0,
+        "PreviewStartTime": 34
+      },
+      "_chartLocation": "C:/Users/cricel/Documents/GitHub/SliceSaber-Unity/Assets/Songs/Avicii - Hey Brother\\info.json"
+    },
+    {
+      "ID": 1,
+      "initialData": {
+        "Artist": "Scottie2pottie",
+        "SongName": "Dragula",
+        "Charter": "Rob Zombie",
+        "Album": "Album Unknown",
+        "offset": 220,
+        "PreviewStartTime": 30
+      },
+      "_chartLocation": "C:/Users/cricel/Documents/GitHub/SliceSaber-Unity/Assets/Songs/Dragula\\info.json"
+    },
+    {
+      "ID": 2,
+      "initialData": {
+        "Artist": "DJ Okawari",
+        "SongName": "Flower Dance",
+        "Charter": "",
+        "Album": "Album Unknown",
+        "offset": 1040,
+        "PreviewStartTime": 12
+      },
+      "_chartLocation": "C:/Users/cricel/Documents/GitHub/SliceSaber-Unity/Assets/Songs/Flower Dance\\info.json"
+    },
+    {
+      "ID": 3,
+      "initialData": {
+        "Artist": "sonjh02",
+        "SongName": "Happy",
+        "Charter": "Pharrell Williams",
+        "Album": "Album Unknown",
+        "offset": 300,
+        "PreviewStartTime": 12
+      },
+      "_chartLocation": "C:/Users/cricel/Documents/GitHub/SliceSaber-Unity/Assets/Songs/Happy\\info.json"
+    },
+    {
+      "ID": 4,
+      "initialData": {
+        "Artist": "Freeek",
+        "SongName": "Blue (KNY Factory Remix)",
+        "Charter": "Effeil 65",
+        "Album": "Album Unknown",
+        "offset": -715,
+        "PreviewStartTime": 12
+      },
+      "_chartLocation": "C:/Users/cricel/Documents/GitHub/SliceSaber-Unity/Assets/Songs/j\\info.json"
+    }
+  ],
+  "BadSongs": []
+}
