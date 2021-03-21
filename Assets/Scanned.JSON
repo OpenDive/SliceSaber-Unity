@@ -3,62 +3,38 @@
     {
       "ID": 0,
       "initialData": {
-        "Artist": "Avicii",
-        "SongName": "Hey Brother",
-        "Charter": "(Beatmap by Chandoggie)",
+        "Artist": "The Bbot",
+        "SongName": "Full Power",
+        "Charter": "",
         "Album": "Album Unknown",
         "offset": 0,
-        "PreviewStartTime": 34
+        "PreviewStartTime": 24
       },
-      "_chartLocation": "C:/Users/cricel/Documents/GitHub/SliceSaber-Unity/Assets/Songs/Avicii - Hey Brother\\info.json"
+      "_chartLocation": "C:/Users/cricel/Documents/GitHub/SliceSaber-Unity/Assets/Songs/FullPower\\info.json"
     },
     {
       "ID": 1,
       "initialData": {
-        "Artist": "Scottie2pottie",
-        "SongName": "Dragula",
-        "Charter": "Rob Zombie",
+        "Artist": "The Bbot",
+        "SongName": "Haywire",
+        "Charter": "",
         "Album": "Album Unknown",
-        "offset": 220,
-        "PreviewStartTime": 30
+        "offset": 1040,
+        "PreviewStartTime": 20
       },
-      "_chartLocation": "C:/Users/cricel/Documents/GitHub/SliceSaber-Unity/Assets/Songs/Dragula\\info.json"
+      "_chartLocation": "C:/Users/cricel/Documents/GitHub/SliceSaber-Unity/Assets/Songs/Haywire\\info.json"
     },
     {
       "ID": 2,
       "initialData": {
-        "Artist": "DJ Okawari",
-        "SongName": "Flower Dance",
+        "Artist": "The Bbot",
+        "SongName": "Wait",
         "Charter": "",
         "Album": "Album Unknown",
-        "offset": 1040,
-        "PreviewStartTime": 12
+        "offset": 220,
+        "PreviewStartTime": 30
       },
-      "_chartLocation": "C:/Users/cricel/Documents/GitHub/SliceSaber-Unity/Assets/Songs/Flower Dance\\info.json"
-    },
-    {
-      "ID": 3,
-      "initialData": {
-        "Artist": "sonjh02",
-        "SongName": "Happy",
-        "Charter": "Pharrell Williams",
-        "Album": "Album Unknown",
-        "offset": 300,
-        "PreviewStartTime": 12
-      },
-      "_chartLocation": "C:/Users/cricel/Documents/GitHub/SliceSaber-Unity/Assets/Songs/Happy\\info.json"
-    },
-    {
-      "ID": 4,
-      "initialData": {
-        "Artist": "Freeek",
-        "SongName": "Blue (KNY Factory Remix)",
-        "Charter": "Effeil 65",
-        "Album": "Album Unknown",
-        "offset": -715,
-        "PreviewStartTime": 12
-      },
-      "_chartLocation": "C:/Users/cricel/Documents/GitHub/SliceSaber-Unity/Assets/Songs/j\\info.json"
+      "_chartLocation": "C:/Users/cricel/Documents/GitHub/SliceSaber-Unity/Assets/Songs/Wait\\info.json"
     }
   ],
   "BadSongs": []

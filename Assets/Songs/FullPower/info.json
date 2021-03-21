@@ -1,0 +1,20 @@
+{
+  "songName": "Full Power",
+  "songSubName": "",
+  "authorName": "The Bbot",
+  "beatsPerMinute": 125,
+  "previewStartTime": 24,
+  "previewDuration": 30,
+  "coverImagePath": "",
+  "environmentName": "TriangleEnvironment",
+  "difficultyLevels": [
+    {
+      "difficulty": "Hard",
+      "difficultyRank": 4,
+      "audioPath": "FullPower.ogg",
+      "jsonPath": "Hard.json",
+      "offset": 0,
+      "oldOffset": 0
+    }
+  ]
+}
